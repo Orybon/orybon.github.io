@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Video test
 subtitle: Lorem ipsum dolor sit amet consectetur.
 youtubeId: lTx3G6h2xyA
 ---
