@@ -2,6 +2,15 @@
 title: Video test
 subtitle: Lorem ipsum dolor sit amet consectetur.
 youtubeId: lTx3G6h2xyA
+
+image: https://fr.wikipedia.org/wiki/Madeon#/media/Fichier:Madeon_2015.jpg
+alt: 
+
+caption:
+  title: Southwest
+  subtitle: Website Design
+  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
