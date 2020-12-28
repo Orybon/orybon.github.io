@@ -1,5 +1,0 @@
----
-title: Portfolio
-icon: fa-th
-order: 2
----
